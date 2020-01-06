@@ -1,2 +1,7 @@
 out
 .metals
+target
+.idea
+.dotty-ide-artifact
+.dotty-ide.json
+.history
